@@ -1,0 +1,8 @@
+{
+  "name": "Remix SI DATU",
+  "description": "SI DATU - Sistem Informasi Data Terpadu Lombok Tengah.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
